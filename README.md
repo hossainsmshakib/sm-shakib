@@ -1,5 +1,5 @@
 ### Hi there 👋, this is S M Shakib Hossain
-![](https://github.com/doubleO-Seven/doubleO-seven/blob/main/007.jpg)
+
 
 I am a Frontend developer from Bangladesh
 
