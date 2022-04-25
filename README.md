@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=doubleo-seven&label=Profile%20views&color=0e75b6&style=flat" alt="doubleo-seven" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://doubleo-seven.github.io/Demo-Portfolio/](https://doubleo-seven.github.io/Demo-Portfolio/)
+- 👨‍💻 All of my projects are available at [https://smshakib.netlify.app/](https://smshakib.netlify.app/)
 
 - 💬 Ask me about **C/C++, CSS, JavaScript, React**
 
